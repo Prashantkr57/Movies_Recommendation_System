@@ -24,3 +24,4 @@ Python libraries Used:
 3. SciKit Learn
 4. Streamlit
 5. Requests
+6. Pickle
