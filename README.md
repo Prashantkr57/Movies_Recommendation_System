@@ -25,3 +25,8 @@ Python libraries Used:
 4. Streamlit
 5. Requests
 6. Pickle
+
+Tools Needed to build this Web Application:
+1. Jupyter Notebook
+2. Pycharm (Any other IDE can work)
+3. browser Chrome
