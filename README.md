@@ -29,4 +29,10 @@ Python libraries Used:
 Tools Needed to build this Web Application:
 1. Jupyter Notebook
 2. Pycharm (Any other IDE can work)
-3. browser Chrome
+3. Any Browser
+
+Steps to Run this in your local system:
+1. Dowload the Datasets
+2. Copy and paste the Jupyter Notebook ipynb code in a New Notebook in your system
+3. Generate the pickle file
+4. Create a python project in Pycharm (or any Python IDE)
