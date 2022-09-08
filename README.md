@@ -36,3 +36,5 @@ Steps to Run this in your local system:
 2. Copy and paste the Jupyter Notebook ipynb code in a New Notebook in your system
 3. Generate the pickle file
 4. Create a python project in Pycharm (or any Python IDE)
+5. Import the pickle file in that project
+6. Use the Streamlit code template to build the web application
