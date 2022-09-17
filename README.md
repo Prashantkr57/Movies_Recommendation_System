@@ -1,6 +1,6 @@
 # Movies_Recommendation_System
 A movie recommendation system, or a movie recommender system, is an ML-based approach to filtering or predicting the users’ film preferences based on their past choices and behavior.  
-Use this link to run the live application visit https://mrs-prashantkr.herokuapp.com/
+Link to run the web application: https://mrs-prashantkr.herokuapp.com/
 
 Refer the below screenshots from the application.
 
